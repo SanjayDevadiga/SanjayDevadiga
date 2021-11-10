@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SanjayDevadiga
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...mca
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing ...mca
 
 <!---
 SanjayDevadiga/SanjayDevadiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
